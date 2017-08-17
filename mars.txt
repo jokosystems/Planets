@@ -1,1 +1,2 @@
-This Git practise
+This is Git practise
+Second line of file
